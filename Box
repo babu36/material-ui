@@ -1,0 +1,7 @@
+<Box component="span" m={1}>
+<Button/>
+</Box>
+
+<Box color="text.primary" clone>
+  <Button />
+</Box
